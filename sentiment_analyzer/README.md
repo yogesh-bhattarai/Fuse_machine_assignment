@@ -24,7 +24,7 @@ This project is a FastAPI-based web service that analyzes the sentiment of input
 **Steps:**
 1. Install dependencies:
     ```bash
-    pip install -r requirement.txt
+    pip install -r requirements.txt
     ```
 2. Start the FastAPI server:
     ```bash
